@@ -1,5 +1,5 @@
 # Markov Trading Simulation
-A Markov chain or Markov process, is a stochastic model describing a sequence of possible events.
+A Markov chain, or Markov process, is a stochastic model that describes a sequence of possible events. The goal of this project is to develop a simple Markov trading model using historical stock price data and machine learning. We will then create a web application to test our model and simulate potential market returns.
 
 ## Data Overview
 
