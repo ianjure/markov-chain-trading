@@ -6,7 +6,7 @@ $P(X_{n+1}|X_n,X_{n-1},...,X_1) = P(X_{n+1}|X_n)$
 
 where $X_n$ represents the state at time $n$.
 
-The goal of this project is to develop a simple Markov trading model using historical stock price data and simulate the strategy's potential market returns by deploying a web application that anyone can use.
+The goal of this project is to develop a simple Markov trading model using historical stock price data and simulate its potential market returns in an options trading environment. Additionally, we will deploy a web application that allows users to test the model's effectiveness.
 
 ## Data Overview
 
