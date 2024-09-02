@@ -9,10 +9,18 @@ where $X_n$ represents the state at time $n$.
 The goal of this project is to develop a simple Markov trading model using historical stock price data and simulate its potential market returns in an options trading environment. Additionally, we will deploy a web application that allows users to test the model's effectiveness.
 
 ## Data Overview
+We will obtain historical price data for the stock from **Yahoo Finance** using the [yfinance](https://pypi.org/project/yfinance/) library. This dataset will include columns for both the opening and closing prices, which are essential for simulating the trading strategy
 
 ## Project Method
+1. **Collect the Data:** Retrieve stock price data from Yahoo Finance.
+2. **Clean the Data:** Remove irrelevant features and standardize the index format.
+3. **Create New Features:** Compute daily returns and classify the data into distinct states.
+4. **Build the Model:** Estimate state probabilities for the transition matrix.
+5. **Deploy the Model:** Create a web application enabling users to test the model.
 
 ## Next Steps
+* **Identify** methods to improve the strategy's win rate.
+* **Explore** and evaluate additional trading strategies.
 
 <br>
 
