@@ -1,4 +1,4 @@
-# Markov Trading Simulation
+# Markov Trading Simulation &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ianjure/markov-trading-simulation/blob/main/Markov_Trading_Simulation_Notebook.ipynb)
 A Markov chain, or Markov process, is a stochastic model that describes a sequence of possible events.
 The key property is that the future state depends only on the current state and not on the past states. This can be formalized as:
 
