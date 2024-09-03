@@ -16,7 +16,8 @@ We will obtain historical price data for the stock from **Yahoo Finance** using 
 2. **Clean the Data:** Remove irrelevant features and standardize the index format.
 3. **Create New Features:** Compute daily returns and classify the data into distinct states.
 4. **Build the Model:** Estimate state probabilities for the transition matrix.
-5. **Deploy the Model:** Create a web application enabling users to test the model.
+5. **Simulate the Strategy:** Execute simulated trades by backtesting and calculating the expected returns.
+6. **Deploy the Model:** Create a web application enabling users to test the model.
 
 ## Next Steps
 * **Identify** methods to improve the strategy's win rate.
